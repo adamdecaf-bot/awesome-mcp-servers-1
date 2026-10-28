@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-464-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-465-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -49,7 +49,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (24)
 - [Communication and Productivity](#communication-and-productivity) (55)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (54)
-- [Data, Analytics, and BI](#data-analytics-and-bi) (49)
+- [Data, Analytics, and BI](#data-analytics-and-bi) (50)
 - [Legal and Court Data](#legal-and-court-data) (6)
 - [Security and Identity](#security-and-identity) (25)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (88)
@@ -745,6 +745,8 @@ Analytics platforms, monitoring, and business intelligence tooling.
   `ios` `app-store` `aso` `ads` `remote`
 - **[Proofsource](https://proofsource.co/docs/chatgpt-and-claude)** `Official` `Go` — Hosted AI visibility server: which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, competitors named instead, cited sources, and fix tracking. OAuth.  
   `ai-visibility` `geo` `aeo` `marketing` `remote`
+- **[Recall Kitchen](https://github.com/Recall-Kitchen/rk-mcp)** `Official` `Go` — Hosted MCP server that searches government product recall notices from CPSC, FDA, USDA, NHTSA and Health Canada by keyword, UPC, product name or vehicle, and fetches a full notice; free API key or anonymous x402 pay-per-call.  
+  `recalls` `product-safety` `government-data` `remote`
 - **[Robot Speed](https://github.com/robot-speed/mcp)** `Official` `TypeScript` — SEO tools for AI agents: audits, Core Web Vitals, keywords, AI visibility, traffic, backlinks, and CMS publishing.  
   `seo` `analytics` `keywords` `content`
 - **[Scento Perfume API](https://www.scento.com/developers)** `Official` `Other` — Perfume knowledge for AI assistants: 1,400+ designer and niche perfumes with notes and families, 400+ raw materials, similar scents. Remote, read-only, no key.  
